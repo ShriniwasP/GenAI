@@ -38,9 +38,9 @@ cold-email-generator/
 
 ## ⚙️ Setup & Run
 1. Clone the repository:
-   ```
-   git clone https://github.com/ShriniwasP/GenAI.git
-   cd GenAI/cold-email-generator
+ ```
+git clone https://github.com/ShriniwasP/GenAI.git
+cd GenAI/cold-email-generator
 2.Create & Activate environment
    ```
 conda create -n venv python=3.10
