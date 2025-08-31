@@ -41,13 +41,16 @@ cold-email-generator/
  ```
 git clone https://github.com/ShriniwasP/GenAI.git
 cd GenAI/cold-email-generator
+```
 2.Create & Activate environment
    ```
 conda create -n venv python=3.10
 conda activate venv
+```
 3.Install dependencies
    ```
 pip install -r requirements.txt
+```
 4. Run the streamlit app
    ```
 streamlit run app/main.py
